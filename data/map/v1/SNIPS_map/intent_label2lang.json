@@ -1,0 +1,9 @@
+{
+    "RateBook": ["rating", "books"],
+    "AddToPlaylist": ["adding", "to", "play", "list"],
+    "GetWeather": ["getting", "weather"],
+    "BookRestaurant": ["booking", "restaurant"],
+    "PlayMusic": ["playing", "music"],
+    "SearchScreeningEvent": ["search", "screen", "event"],
+    "SearchCreativeWork": ["search", "creative", "work"]
+}
